@@ -1,8 +1,3 @@
-<<<<<<< HEAD
-# wikipediaviewer
-
-> A wiki viewer for FreeCodeCamp
-
 ## Build Setup
 
 ``` bash
