@@ -15,7 +15,3 @@ npm run build --report
 ```
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
-=======
-# wikipedia-viewer
-Wikipedia article search with help of VueJs framework
->>>>>>> 58170b88ecaa7455c75489302cdc1531b0fc5f7b
